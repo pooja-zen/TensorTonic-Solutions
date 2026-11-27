@@ -38,6 +38,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | K-Means++ Initialization | Implement K-means++ initialization by sampling centroids according to squared distance from the nearest chosen center. | https://www.tensortonic.com/problems/ml-kmeans-plusplus |
 | Linear Regression from Scratch | Train linear regression from scratch with mean squared error gradients for weights and bias. | https://www.tensortonic.com/problems/ml-linear-regression-from-scratch |
 | Logistic Regression from Scratch | Train binary logistic regression from scratch using sigmoid probabilities, cross-entropy gradients, and gradient descent. | https://www.tensortonic.com/problems/ml-logistic-regression |
+| Sample Variance & Standard Deviation | Compute unbiased sample variance and standard deviation with Bessel correction for a numeric sample. | https://www.tensortonic.com/problems/probstat-sample-var-std |
 | Basic SELECT | Write a SQL SELECT query that aliases product names and calculates inventory value from unit price and stock quantity. | https://www.tensortonic.com/problems/sql-basic-select |
 | CASE Statements | Classify user activity and platform type with SQL CASE expressions using session counts and mobile platform values. | https://www.tensortonic.com/problems/sql-case-statements |
 | Conditional Aggregation | Summarize support tickets by department with conditional SQL counts for open, in-progress, and closed statuses. | https://www.tensortonic.com/problems/sql-conditional-aggregation |
