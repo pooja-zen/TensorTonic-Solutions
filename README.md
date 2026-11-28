@@ -38,6 +38,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | K-Means++ Initialization | Implement K-means++ initialization by sampling centroids according to squared distance from the nearest chosen center. | https://www.tensortonic.com/problems/ml-kmeans-plusplus |
 | Linear Regression from Scratch | Train linear regression from scratch with mean squared error gradients for weights and bias. | https://www.tensortonic.com/problems/ml-linear-regression-from-scratch |
 | Logistic Regression from Scratch | Train binary logistic regression from scratch using sigmoid probabilities, cross-entropy gradients, and gradient descent. | https://www.tensortonic.com/problems/ml-logistic-regression |
+| Create DataFrame from Dict | Create a pandas DataFrame from dictionary data and report its records, shape, and ordered column names. | https://www.tensortonic.com/problems/pandas-read-csv |
 | Basic Probability Rules | Compute union, complement, and exclusive-event probabilities from two event probabilities and their intersection. | https://www.tensortonic.com/problems/probstat-basic-probability-rules |
 | Mean, Median, Mode | Compute mean, median, and a deterministically selected mode for a one-dimensional numeric sample. | https://www.tensortonic.com/problems/probstat-mean-median-mode |
 | Compute Pearson Correlation Matrix | Compute the complete Pearson correlation matrix across dataset features with stable handling of numeric inputs. | https://www.tensortonic.com/problems/probstat-pearson-correlation |
